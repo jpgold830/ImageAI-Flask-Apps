@@ -1,6 +1,6 @@
 # ImageAI Computer Vision Flask Apps
 
-[![GitHub](https://badgen.net/badge/icon/GitHub?icon=github&color=black&label)](https://github.com/MaxineXiong)
+[![GitHub](https://badgen.net/badge/icon/GitHub?icon=github&color=black&label)](https://github.com/jpgold830)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Made with Python](https://img.shields.io/badge/Python->=3.6-blue?logo=python&logoColor=white)](https://www.python.org)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
@@ -143,7 +143,3 @@ Contributions to this project are welcome. If you encounter any issues or have s
 This project is licensed under the **[MIT License](https://choosealicense.com/licenses/mit/)**.
 
 <br/>
-
-## Acknowledgement
-
-I would like to thank the [**creator of ImageAI**](https://github.com/OlafenwaMoses) for providing the image prediction and object detection algorithms used in this project. His contributions have been instrumental in the development of these Flask applications. To delve deeper into the computer vision algorithms and models developed by [**ImageAI**](https://github.com/OlafenwaMoses/ImageAI), I encourage you to visit the [**ImageAI GitHub Page**](https://github.com/OlafenwaMoses/ImageAI) or explore its [**official documentation**](https://imageai.readthedocs.io/en/latest/).
